@@ -2,6 +2,8 @@
 
 以下の作業は **dotが行う3D制作** です。Codexを実行する指示ではありません。
 
+全自動猫トイレ（3D-03）は **[専用依頼文](DOT_3D_LITTER_TASK_PROMPT.md)** と [Issue #3](https://github.com/kissho222/dot-is-dot/issues/3) を参照。**この文書は3D-01・3D-02用**として維持します。
+
 ## 依頼
 
 『NEKOLPOS』の3D小物2点、自動給餌器（3D-01）と自動給水器（3D-02）について、ラフ制作・プレビュー・Blender/Unity向け成果物の準備を進めてください。
