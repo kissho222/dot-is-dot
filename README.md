@@ -11,6 +11,7 @@ ChatGPT dotへの作業委任・進捗管理・引き継ぎのための横断リ
 1. [docs/HANDOFF.md](docs/HANDOFF.md) — 背景、確定方針、プロジェクト概要、制約
 2. [docs/BACKLOG.md](docs/BACKLOG.md) — 1か月のPro＋dot活用に向けた作業候補
 3. [docs/OPERATIONS.md](docs/OPERATIONS.md) — Issue・Codex・レビュー・安全な作業運用
+4. [docs/3D_ASSET_SPECS.md](docs/3D_ASSET_SPECS.md) — 自動給餌器・自動給水器の静的外観モデル仕様（元画像は別途共有）
 
 ## 当面の優先順位
 
