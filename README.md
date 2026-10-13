@@ -11,9 +11,10 @@ ChatGPT dotへの作業委任・進捗管理・引き継ぎのための横断リ
 1. [docs/HANDOFF.md](docs/HANDOFF.md) — 背景、確定方針、プロジェクト概要、制約
 2. [docs/BACKLOG.md](docs/BACKLOG.md) — 1か月のPro＋dot活用に向けた作業候補
 3. [docs/OPERATIONS.md](docs/OPERATIONS.md) — Issue・Codex・レビュー・安全な作業運用
-4. [docs/3D_ASSET_SPECS.md](docs/3D_ASSET_SPECS.md) — NEKOLPOS 3D小物の共通仕様、給餌器・給水器の外観と拡張用構造（元画像は別途共有）
+4. [docs/3D_ASSET_SPECS.md](docs/3D_ASSET_SPECS.md) — NEKOLPOS 3D小物の共通仕様、給餌器・給水器・全自動猫トイレの外観と拡張用構造（元画像は別途共有）
 5. [docs/DOT_3D_TASK_PROMPT.md](docs/DOT_3D_TASK_PROMPT.md) — dotにそのまま渡せる3D制作依頼文
-6. [Issue #1（自動給餌器）](https://github.com/kissho222/dot-is-dot/issues/1) / [Issue #2（自動給水器）](https://github.com/kissho222/dot-is-dot/issues/2) — モデル制作タスク
+6. [docs/DOT_3D_LITTER_TASK_PROMPT.md](docs/DOT_3D_LITTER_TASK_PROMPT.md) — 全自動猫トイレのdot向け制作依頼文
+7. [Issue #1（自動給餌器）](https://github.com/kissho222/dot-is-dot/issues/1) / [Issue #2（自動給水器）](https://github.com/kissho222/dot-is-dot/issues/2) / [Issue #3（全自動猫トイレ）](https://github.com/kissho222/dot-is-dot/issues/3) — モデル制作タスク
 
 ## 当面の優先順位
 
