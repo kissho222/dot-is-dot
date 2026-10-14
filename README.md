@@ -16,6 +16,13 @@ ChatGPT dotへの作業委任・進捗管理・引き継ぎのための横断リ
 6. [docs/DOT_3D_LITTER_TASK_PROMPT.md](docs/DOT_3D_LITTER_TASK_PROMPT.md) — 全自動猫トイレのdot向け制作依頼文
 7. [Issue #1（自動給餌器）](https://github.com/kissho222/dot-is-dot/issues/1) / [Issue #2（自動給水器）](https://github.com/kissho222/dot-is-dot/issues/2) / [Issue #3（全自動猫トイレ）](https://github.com/kissho222/dot-is-dot/issues/3) — モデル制作タスク
 
+## 追加発注の猫用品（3D）
+
+- [猫用品3点の制作ブリーフ](docs/NEKOLPOS_CAT_PROPS.md)
+- [Issue #8 猫じゃらし](https://github.com/kissho222/dot-is-dot/issues/8)
+- [Issue #9 小型ブラシ](https://github.com/kissho222/dot-is-dot/issues/9)
+- [Issue #10 大きめのキャットタワー](https://github.com/kissho222/dot-is-dot/issues/10)
+
 ## 当面の優先順位
 
 - **Pro加入後〜10月23日**：管理環境の整備、ネコルポスの3D小物制作、開発支援環境、必要な試作。
