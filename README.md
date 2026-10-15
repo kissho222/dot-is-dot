@@ -23,6 +23,12 @@ ChatGPT dotへの作業委任・進捗管理・引き継ぎのための横断リ
 - [Issue #9 小型ブラシ](https://github.com/kissho222/dot-is-dot/issues/9)
 - [Issue #10 大きめのキャットタワー](https://github.com/kissho222/dot-is-dot/issues/10)
 
+## 『ぐにゃぐにゃ怪盗』：BoZo衣装開発
+
+- [初期怪盗衣装と大変形の検証仕様](docs/GUNYA_THIEF_BOZO_COSTUME.md)
+- [Issue #11：BoZoを使った初期衣装の制作・変形耐性チェック](https://github.com/kissho222/dot-is-dot/issues/11)
+- BoZo本体は**NEKOLPOSのローカル作業フォルダにインポート済み**。dotの接続・参照確認はまだ必要。
+
 ## 当面の優先順位
 
 - **Pro加入後〜10月23日**：管理環境の整備、ネコルポスの3D小物制作、開発支援環境、必要な試作。
