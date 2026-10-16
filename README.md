@@ -11,10 +11,11 @@ ChatGPT dotへの作業委任・進捗管理・引き継ぎのための横断リ
 1. [docs/HANDOFF.md](docs/HANDOFF.md) — 背景、確定方針、プロジェクト概要、制約
 2. [docs/BACKLOG.md](docs/BACKLOG.md) — 1か月のPro＋dot活用に向けた作業候補
 3. [docs/OPERATIONS.md](docs/OPERATIONS.md) — Issue・Codex・レビュー・安全な作業運用
-4. [docs/3D_ASSET_SPECS.md](docs/3D_ASSET_SPECS.md) — NEKOLPOS 3D小物の共通仕様、給餌器・給水器・全自動猫トイレの外観と拡張用構造（元画像は別途共有）
-5. [docs/DOT_3D_TASK_PROMPT.md](docs/DOT_3D_TASK_PROMPT.md) — dotにそのまま渡せる3D制作依頼文
-6. [docs/DOT_3D_LITTER_TASK_PROMPT.md](docs/DOT_3D_LITTER_TASK_PROMPT.md) — 全自動猫トイレのdot向け制作依頼文
-7. [Issue #1（自動給餌器）](https://github.com/kissho222/dot-is-dot/issues/1) / [Issue #2（自動給水器）](https://github.com/kissho222/dot-is-dot/issues/2) / [Issue #3（全自動猫トイレ）](https://github.com/kissho222/dot-is-dot/issues/3) — モデル制作タスク
+4. [docs/WORK_COORDINATION.md](docs/WORK_COORDINATION.md) — **所有者・dot・Codexの並行作業と在席／離席の主導権切り替え**
+5. [docs/3D_ASSET_SPECS.md](docs/3D_ASSET_SPECS.md) — NEKOLPOS 3D小物の共通仕様、給餌器・給水器・全自動猫トイレの外観と拡張用構造（元画像は別途共有）
+6. [docs/DOT_3D_TASK_PROMPT.md](docs/DOT_3D_TASK_PROMPT.md) — dotにそのまま渡せる3D制作依頼文
+7. [docs/DOT_3D_LITTER_TASK_PROMPT.md](docs/DOT_3D_LITTER_TASK_PROMPT.md) — 全自動猫トイレのdot向け制作依頼文
+8. [Issue #1（自動給餌器）](https://github.com/kissho222/dot-is-dot/issues/1) / [Issue #2（自動給水器）](https://github.com/kissho222/dot-is-dot/issues/2) / [Issue #3（全自動猫トイレ）](https://github.com/kissho222/dot-is-dot/issues/3) — モデル制作タスク
 
 ## 追加発注の猫用品（3D）
 
@@ -42,7 +43,7 @@ ChatGPT dotへの作業委任・進捗管理・引き継ぎのための横断リ
 - **docs**：仕様、背景、採用理由、保留条件を記録する。
 - **GitHub Issues**：具体的な調査・制作・実装タスクを管理する。
 - **Codexへの実装指示**：対象ゲームのリポジトリでIssueを作成し、必ず **codex-task** ラベルを付ける。Issueの作成とCodexの実行は区別する。
-- **dot**：作業状況の確認、成果物制作、調査、タスク分解、Issue整備、結果報告を担当する。
+- **dot**：作業状況の確認、成果物制作、調査、タスク分解、Issue整備、結果報告を担当する。**所有者が在席中は独立作業中心、離席時は事前委任された範囲で進行管理**。実作業環境の競合については [WORK_COORDINATION.md](docs/WORK_COORDINATION.md) を参照。
 - **人間の最終確認**：大きな仕様変更、破壊的操作、公開、配布、課金、重要なマージは所有者の承認を得る。
 
 ## 注意事項
