@@ -33,6 +33,12 @@ ChatGPT dotへの作業委任・進捗管理・引き継ぎのための横断リ
 - [Issue #15：警備員＋警棒＋拳銃のゲーム用モデル](https://github.com/kissho222/dot-is-dot/issues/15)
 - **旧BoZo利用は保留・置換済み**。[旧Issue #11（履歴）](https://github.com/kissho222/dot-is-dot/issues/11) は未実施で終了。所有者の明示確認がないまま、BoZoの元アセットや派生形をAI制作に使わない。
 
+## NEKOLPOS：接触・被弾・死亡エフェクト
+
+- [URP対応のImpact／死亡VFX品質改善仕様](docs/NEKOLPOS_IMPACT_DEATH_VFX.md)
+- 原型は汎用の10種。まず**引っかき→即時暗転→黒背景に赤い爪痕**の完成見本を制作し、レビュー後に種類を増やす。
+- dotの**独立VFX試作**を想定。Codexは許可なしで起動せず、本編死亡処理は無断改変しない。
+
 ## 当面の優先順位
 
 - **Pro加入後〜10月23日**：管理環境の整備、ネコルポスの3D小物制作、開発支援環境、必要な試作。
