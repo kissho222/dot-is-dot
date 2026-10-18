@@ -24,11 +24,14 @@ ChatGPT dotへの作業委任・進捗管理・引き継ぎのための横断リ
 - [Issue #9 小型ブラシ](https://github.com/kissho222/dot-is-dot/issues/9)
 - [Issue #10 大きめのキャットタワー](https://github.com/kissho222/dot-is-dot/issues/10)
 
-## 『ぐにゃぐにゃ怪盗』：BoZo衣装開発
+## 『ぐにゃぐにゃ怪盗』：新規キャラクター＋博物館チュートリアル
 
-- [初期怪盗衣装と大変形の検証仕様](docs/GUNYA_THIEF_BOZO_COSTUME.md)
-- [Issue #11：BoZoを使った初期衣装の制作・変形耐性チェック](https://github.com/kissho222/dot-is-dot/issues/11)
-- BoZo本体は**NEKOLPOSのローカル作業フォルダにインポート済み**。dotの接続・参照確認はまだ必要。
+- [BoZo不使用の新規変形素体・怪盗衣装仕様](docs/GUNYA_ORIGINAL_CHARACTER.md) — [Issue #12](https://github.com/kissho222/dot-is-dot/issues/12)
+- [博物館チュートリアルの3D素材仕様](docs/GUNYA_MUSEUM_ASSETS.md)
+- [Issue #13：ループ廊下＋展示室＋赤い警備レーザー](https://github.com/kissho222/dot-is-dot/issues/13)
+- [Issue #14：ダイヤモンド＋上に外せる底なし立方体ガラスケース](https://github.com/kissho222/dot-is-dot/issues/14)
+- [Issue #15：警備員＋警棒＋拳銃のゲーム用モデル](https://github.com/kissho222/dot-is-dot/issues/15)
+- **旧BoZo利用は保留・置換済み**。[旧Issue #11（履歴）](https://github.com/kissho222/dot-is-dot/issues/11) は未実施で終了。所有者の明示確認がないまま、BoZoの元アセットや派生形をAI制作に使わない。
 
 ## 当面の優先順位
 
