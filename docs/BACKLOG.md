@@ -101,7 +101,14 @@
 
 ## E. 新作ゲーム：独立プロトタイプ候補
 
-- [ ] **GUNYA-CHAR-01 / P1** BoZo素体をローカルNEKOLPOS作業フォルダで確認し、初回起動・PV・スクショで怪盗だとわかる**初期衣装1着**を制作。極端な屈曲・圧縮・引き伸ばし・ねじれで破綻チェックし、独立した怪盗用作業コピーと再利用可能な制作手法を整える。[仕様](GUNYA_THIEF_BOZO_COSTUME.md)・[Issue #11](https://github.com/kissho222/dot-is-dot/issues/11)。**時間経過による復元は一定ゲーム内時間**で、スローでもリプレイがずれないことに配慮。
+**2026-10-18：『ぐにゃぐにゃ怪盗』の3D制作案件を新規追加。** 旧BoZo利用案はAI利用の許諾確認ができなかったため置き換え、[Issue #11](https://github.com/kissho222/dot-is-dot/issues/11) は未実施で終了。BoZo由来の資産は新しい制作には使わない。すべて**dot単独制作対象**、Codex実行は禁止のまま。
+
+- [ ] **GUNYA-CHAR-02 / P1** BoZo不使用の**オリジナル人型変形素体**を制作。灰色素体からゴムのような大伸縮・圧縮・ねじれを試し、成立後に誰が見ても怪盗とわかる初期衣装1着を制作。[仕様](GUNYA_ORIGINAL_CHARACTER.md)／[Issue #12](https://github.com/kissho222/dot-is-dot/issues/12)
+- [ ] **GUNYA-MUSEUM-01 / P1** 博物館チュートリアルの**ループ廊下、展示室、赤いレーザー障害物**をモジュール制作。グレーボックス→レビュー→外観。[仕様](GUNYA_MUSEUM_ASSETS.md)／[Issue #13](https://github.com/kissho222/dot-is-dot/issues/13)
+- [ ] **GUNYA-MUSEUM-02 / P1** **ダイヤモンド、展示台、上方向に取り外せる底なし立方体ガラスケース**を別部品で制作。「ダイヤではなくケースを盗む」描写を前提。[Issue #14](https://github.com/kissho222/dot-is-dot/issues/14)
+- [ ] **GUNYA-MUSEUM-03 / P1** **警備員1体、警棒1点、拳銃1点**をモデル制作。ゲーム用の簡略化した武器プロップであり、動作・射撃・AIは対象外。[Issue #15](https://github.com/kissho222/dot-is-dot/issues/15)
+
+- [x] **GUNYA-CHAR-01 / 置換済み** BoZo利用による衣装制作計画は実施せず終了。[旧仕様（履歴用）](GUNYA_THIEF_BOZO_COSTUME.md)／[Issue #11](https://github.com/kissho222/dot-is-dot/issues/11)。
 
 - [ ] **GP-01 / P1** 『ユアパークへようこそ！』の最小Unityプロジェクトと配信映像／アバター取り込み検証。
 - [ ] **GP-02 / P1** ユアパーク：Webカメラ・VTube Studio API・マイク入力の個別検証。
